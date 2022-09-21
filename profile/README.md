@@ -1,3 +1,3 @@
 # Distributed Cryptography Labs
 
-Our purpose is generating tooling and value through R&D and productization of distributed ledger tooling.
+Our purpose is the Research and development of distributed ledgers, and related products, pushing the envelope as necessary in the process.
