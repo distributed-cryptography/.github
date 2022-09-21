@@ -1,3 +1,4 @@
 # Distributed Cryptography Labs
 
-Our purpose is the Research and development of distributed ledgers, and related products, pushing the envelope as necessary in the process.
+We research and develop Byzantine Fault Tolerant protocols -- in particular distributed ledgers/blockchains -- and related products and tooling.
+We strive to pushing the envelope as necessary in the process.
